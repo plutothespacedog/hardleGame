@@ -8,7 +8,7 @@ Hardle has moved to a permanent home at: [hardle.xyz](https://hardle.xyz)
 
 ## Mobile Compatibility
 
-Hardle now (almost) works on mobile! Enjoy playing on the go. I will fully fix the formatting in the coming days.
+Hardle now works on mobile! Enjoy playing on the go. More quality of life updates coming soon!
 
 ## Getting Started
 
